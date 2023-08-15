@@ -1,9 +1,10 @@
 <h1 align="center">Hello, Ambi Hidalgo</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
+<h3 align="center">Mobile Dev Intern at SignedPic</h3>
 
-- 👩🏻‍💻 I’m currently working on [A matchmaking mobile application for musicans in React Native.](https://github.com/ambibma/Capstone)
+- 👩🏻‍💻 I’m currently working on [My own blog with MERN stack in sparetime](https://github.com/ambibma/ambiBlog)
 
-- 🌱 I’m currently learning **React Native and React**
+- 🌱 I’m currently learning **Flutter and Dart**
 
 - 🤓 Future learning... **Python, Typescript, RUST, Flutter, Svelte kit, Arduino, Raspberry Pi, Linux, & Spanish**
 
