@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full Stack Developer</h3>
 <h3 align="center">Mobile Dev Intern at SignedPic</h3>
 
-- 👩🏻‍💻 I’m currently working on [My own blog with MERN stack in sparetime](https://github.com/ambibma/ambiBlog)
+- 👩🏻‍💻 I’m currently working on [My own blog with MERN stack in sparetime]([https://github.com/ambibma/ambiBlog](https://ambi-blog.onrender.com/)) updated 11/14/2023!
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
