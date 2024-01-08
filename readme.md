@@ -1,10 +1,10 @@
-<h1 align="center">Hi I am Ambi </h1>
+<h1 align="center">Hi, I am Ambi </h1>
 <h3 align="center">Full Stack Developer</h3>
 <h3 align="center">Currently under contract at SignedPic</h3>
 
 - 👩🏻‍💻 I’m currently working on my own [blog](https://ambi-blog.onrender.com/)  with MERN stack in sparetime. Updated 11/14/2023!
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Python**
 
 - 🤓 Future learning... **Python, Typescript, RUST, Flutter, Svelte kit, Arduino, Raspberry Pi, Linux, & Spanish**
 
