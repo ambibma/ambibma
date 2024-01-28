@@ -3,6 +3,7 @@
 <h3 align="center">Currently under contract at SignedPic</h3>
 
 - 👩🏻‍💻 I’m currently working on my own [blog](https://ambi-blog.onrender.com/)  with MERN stack in sparetime. Updated 1/22/2023!
+    2.0 comming soon! Fixed alot of things so far: slow page loading, new pages, reorganization of whole app!
 
 - 🌱 I’m currently learning **Python**
 
